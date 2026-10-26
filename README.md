@@ -1,4 +1,5 @@
 # exemplo-git-parte2
 
 Alguma coisa está escrita aqui
-GIT
+
+alteracao feita pela estagiario na branch notificacao
